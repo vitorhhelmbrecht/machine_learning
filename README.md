@@ -36,3 +36,13 @@ Anyway, hope you enjoy this learning process and learn something out of it as we
 # Markdown
 
 - [ ] Regression
+
+ - [ ] Linear Regression
+ - [ ] Multilinear Regression
+ - [ ] Polynomial Regression
+ 
+  - [ ] Population Growth Prediction
+  - [ ] Estimating life expectancy
+  - [ ] Market forecasting
+  - [ ] Weather forecasting
+  - [ ] Advertising Popularity Prediction
