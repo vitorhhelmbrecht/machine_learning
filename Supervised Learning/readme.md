@@ -8,7 +8,7 @@ Anyway, I'm starting here mainly for 2 reasons:
 * 2 - Seeing the name, it seems to be the easiest one hehe.
 
 ## Roadmap for supervides learning
-![Supervised Learning Roadmap](https://raw.githubusercontent.com/vitorhhelmbrecht/machine_learning/main/Supervised%20Learning/Path.png)
+![Supervised Learning Roadmap](https://raw.githubusercontent.com/vitorhhelmbrecht/machine_learning/main/Public/Images/Supervised%20Learning%20Path.png)
 
 ## Author
 Vitor Hugo Helmbrecht - https://www.linkedin.com/in/vitorhhelmbrecht/
