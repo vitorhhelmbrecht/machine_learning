@@ -1,6 +1,6 @@
 # Progression, or Regression, I don't know, always misname it
 
-Everityme I needed to save the file to send it to avaliation, I just putted "Linear Progression.py", "Multilinear Progression.py", "Polinomial Progression.py". Yeah, I do have some problems with that.
+Everytime I needed to save the file to send it to avaliation, I just putted "Linear Progression.py", "Multilinear Progression.py", "Polinomial Progression.py". Yeah, I do have some problems with that.
 
 Anyway, let's start talking about the Regression. As long as I know, I made myself a simple way of understanding what is regression while at AI classes: "Oh, so it's just a way to make the computer find what's the function that makes a nice line that goes across all those nice points in that nice graph".
 
