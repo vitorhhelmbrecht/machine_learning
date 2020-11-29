@@ -35,4 +35,4 @@ Anyway, hope you enjoy this learning process and learn something out of it as we
 ## Milestones
 # Markdown
 
-- [] Regression
+- [ ] Regression
