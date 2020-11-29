@@ -34,7 +34,7 @@ Anyway, hope you enjoy this learning process and learn something out of it as we
 
 ## Milestones
 
-1. - [ ] Regression
+* - [ ] Regression
   * - [ ] Linear Regression
   * - [ ] Multilinear Regression
   * - [ ] Polynomial Regression
