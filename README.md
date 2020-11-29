@@ -35,13 +35,12 @@ Anyway, hope you enjoy this learning process and learn something out of it as we
 ## Milestones
 
 1. - [ ] Regression
-
- * - [ ] Linear Regression
- * - [ ] Multilinear Regression
- * - [ ] Polynomial Regression
- * - [ ] *Exercises*
-   * - [ ] Population Growth Prediction
-   * - [ ] Estimating life expectancy
-   * - [ ] Market forecasting
-   * - [ ] Weather forecasting
-   * - [ ] Advertising Popularity Prediction
+  * - [ ] Linear Regression
+  * - [ ] Multilinear Regression
+  * - [ ] Polynomial Regression
+  * - [ ] *Exercises*
+    * - [ ] Population Growth Prediction
+    * - [ ] Estimating life expectancy
+    * - [ ] Market forecasting
+    * - [ ] Weather forecasting
+    * - [ ] Advertising Popularity Prediction
