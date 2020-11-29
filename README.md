@@ -6,7 +6,7 @@ Observation:
 
 <img src="https://img.shields.io/github/repo-size/vitor-hugo-helmbrecht/machine_learning" style=" float:left, margin-right:10px" />
 
-##Disclaimer:
+## Disclaimer
 This repository is completely inspired from a repository of a frind of mine, Victor Bona. If you see the READ.me file in both repositories, you'll notice they're pretty identical, because I just took it as a start point for my studies. If you're interested in this subject, I really recommend going on his repository and seeing how he's doing as well (https://github.com/vicotrbb/machine_learning).
 
 Even though this start is pretty much the same, I won't use his repository to make mine in any other step. It's just an inspiration to start my path on the data science &amp; machine learning road.
