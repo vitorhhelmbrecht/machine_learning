@@ -2,7 +2,7 @@
 Repository created to store all my studies about data science &amp; machine learning
 
 Observation:
-  * As I'm using this repository for learning, some content here are not completly from my authorship, sources will be always provided, if I forget, please, let me now.
+  * As I'm using this repository for learning, some content here are not completly from my authorship. Sources will always be provided. If I forget to do so, please let me now.
 
 <img src="https://img.shields.io/github/repo-size/vitor-hugo-helmbrecht/machine_learning" style=" float:left, margin-right:10px" />
 
@@ -14,6 +14,7 @@ Even though this start is pretty much the same, I won't use his repository to ma
 ## Roadmap
 
 My learning roadmap will be based on the following image.
+
 Everytime I start (- Ongoing) or complete my studies of one of the topics, it'll will be added to the Milestones, as well as a whole new folder about that topic will be added in this repository.
 
 ![Machine learning Roadmap](https://miro.medium.com/max/2796/0*QYxNNYh6W9jO1b_-.png)
