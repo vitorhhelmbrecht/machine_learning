@@ -39,9 +39,9 @@ Anyway, hope you enjoy this learning process and learn something out of it as we
  * - [ ] Linear Regression
  * - [ ] Multilinear Regression
  * - [ ] Polynomial Regression
- 
-  * - [ ] Population Growth Prediction
-  - [ ] Estimating life expectancy
-  - [ ] Market forecasting
-  - [ ] Weather forecasting
-  - [ ] Advertising Popularity Prediction
+ * - [ ] *Exercises*
+   * - [ ] Population Growth Prediction
+   * - [ ] Estimating life expectancy
+   * - [ ] Market forecasting
+   * - [ ] Weather forecasting
+   * - [ ] Advertising Popularity Prediction
