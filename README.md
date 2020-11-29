@@ -33,9 +33,8 @@ Some of the thing I have in this repository will be based on what I learned in t
 Anyway, hope you enjoy this learning process and learn something out of it as well.
 
 ## Milestones
-# Markdown
 
-- [ ] Regression
+### - [ ] Regression
 
  - [ ] Linear Regression
  - [ ] Multilinear Regression
