@@ -36,7 +36,7 @@ Anyway, hope you enjoy this learning process and learn something out of it as we
 
 * - [ ] Supervise Learning
   * - [ ] Regression
-    * - [ ] Correlation
+    * - [X] Correlation
     * - [X] Linear Regression
     * - [ ] Multilinear Regression
     * - [ ] Polynomial Regression
