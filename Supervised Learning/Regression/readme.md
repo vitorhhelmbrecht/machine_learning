@@ -15,11 +15,12 @@ Hope you enjoy this learning process and learn something out of it as well.
 
 I mean, regress
 
-* - [X] Correlation
-* - [X] Linear Regression
-* - [X] Multilinear Regression
-* - [ ] Polynomial Regression
-* - [ ] *Exercises*
+* - [ ] *Learning*
+ * - [X] Correlation
+ * - [X] Linear Regression
+ * - [X] Multilinear Regression
+ * - [ ] Polynomial Regression
+* - [ ] *Practicing*
   * - [ ] Population Growth Prediction
   * - [ ] Estimating life expectancy
   * - [ ] Market forecasting
