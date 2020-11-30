@@ -14,3 +14,14 @@ Hope you enjoy this learning process and learn something out of it as well.
 **In progress**
 
 I mean, regress
+
+* - [X] Correlation
+* - [X] Linear Regression
+* - [X] Multilinear Regression
+* - [ ] Polynomial Regression
+* - [ ] *Exercises*
+  * - [ ] Population Growth Prediction
+  * - [ ] Estimating life expectancy
+  * - [ ] Market forecasting
+  * - [ ] Weather forecasting
+  * - [ ] Advertising Popularity Prediction
