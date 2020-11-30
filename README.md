@@ -22,7 +22,7 @@ Everytime I start or complete my studies of one of the topics, it'll be checked 
 
 ## How I'll do it
 
-So, it might seem a little cliche and "Oh, what a good guy he is" but it's just my way of learning (hope you enjoy it).
+It might seem a little cliche and "Oh, what a good guy he is", but it's just my way of learning (hope you enjoy it).
 
 This repository is not just for me, I hope that people who want to learn machine learning can come here and absorb the things he/she wanted to learn at first.
 
