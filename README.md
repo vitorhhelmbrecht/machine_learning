@@ -15,7 +15,7 @@ Even though this start is pretty much the same, I won't use his repository to ma
 
 My learning roadmap will be based on the following image.
 
-Everytime I start or complete my studies of one of the topics, it'll be checked in the Milestones topic, as well as a whole new folder about that topic will be added in this repository.
+Everytime I start/complete my studies of one of the topics, it'll be added/checked in the Milestones (end of this document), as well as a whole new folder about that topic will be added in this repository.
 
 ![Machine learning Roadmap](https://miro.medium.com/max/2796/0*QYxNNYh6W9jO1b_-.png)
 
