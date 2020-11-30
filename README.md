@@ -28,7 +28,7 @@ This repository is not just for me, I hope that people who want to learn machine
 
 Because of this, I'll always try to put every step of my thinking process (oh that will be funny) in the commentaries of the code to make it easiers to understand what's happening, cause I know that sometimes I can do pretty nice messy code. That always will help my own learning as well, so I recommend it to everyone.
 
-Some of the thing I have in this repository will be based on what I learned in the university I went (FURB - University of Blumenau, SC, Brazil). If that's the case, I'll always try googling something else to see if I find anything different from what I already learned and if that'll help me learning more. If I don't find anything interesting or that will add cool things for this repository, I just won't put it here.
+Some of the things I have in this repository will be based on what I learned in the university I went (FURB - University of Blumenau, SC, Brazil). If that's the case, I'll always try googling something else to see if I find anything different from what I already learned and if that'll help me learning more. If I don't find anything interesting or that will add cool things for this repository, I just won't put it here.
 
 Anyway, hope you enjoy this learning process and learn something out of it as well.
 
