@@ -38,7 +38,7 @@ Anyway, hope you enjoy this learning process and learn something out of it as we
   * - [ ] Regression
     * - [X] Correlation
     * - [X] Linear Regression
-    * - [ ] Multilinear Regression
+    * - [X] Multilinear Regression
     * - [ ] Polynomial Regression
     * - [ ] *Exercises*
       * - [ ] Population Growth Prediction
